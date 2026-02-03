@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I’m Thomas
 
-<!--
-**thomass4analytic-pixel/thomass4analytic-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior Technical Recruiter working directly with engineering leaders
+to hire for **real roles with real hiring managers**.
 
-Here are some ideas to get you started:
+### 🔍 Roles I hire for
+- Backend: Java, Python, Node, Go
+- Frontend: React, Angular, Vue
+- DevOps / Cloud: AWS, GCP, Kubernetes
+- Data & Analytics roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 How I work
+- No mass outreach
+- I review GitHub profiles
+- Clear salary ranges
+- Fast, honest feedback
+
+### 📬 Get in touch
+- Email: thomas.s4analytic@gmail.com
+- Location: US - Texas
+
+> Open to conversations — never spam.
