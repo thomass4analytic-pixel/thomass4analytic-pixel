@@ -1,19 +1,11 @@
 ## 👋 Hi, I’m Thomas
 
-I’m a Senior Technical Recruiter working directly with engineering leaders
-to hire for **real roles with real hiring managers**.
-
-### 🔍 Roles I hire for
-- Backend: Java, Python, Node, Go
-- Frontend: React, Angular, Vue
-- DevOps / Cloud: AWS, GCP, Kubernetes
-- Data & Analytics roles
-
-### 🤝 How I work
-- No mass outreach
-- I review GitHub profiles
-- Clear salary ranges
-- Fast, honest feedback
+### AWS Cloud Architect – Agentic AI (C2C)
+- Client: Southwest Airlines
+- Location: Dallas, TX (Hybrid – 3 days onsite)
+- Rate: Up to $65/hr (C2C)
+- Stack: AWS, Python, LangChain, Bedrock, RAG, ECS/EKS
+- Focus: Cloud-native AI agent systems & LLM orchestration
 
 ### 📬 Get in touch
 - Email: thomas.s4analytic@gmail.com
